@@ -1,5 +1,6 @@
 {
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.compile.nullAnalysis.mode": "automatic",
-    "sarif-viewer.connectToGithubCodeScanning": "off"
+    "sarif-viewer.connectToGithubCodeScanning": "off",
+    "codeQL.createQuery.qlPackLocation": "/Users/tomnaylor/Documents/GitHub/workshop-5-sql-injections-and-logging-tnayls"
 }
